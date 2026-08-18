@@ -1,0 +1,6 @@
+Coloque a capa do livro aqui com o nome "capa.jpg" (ou troque o caminho
+em js/config.js, na chave livro.capa).
+
+Sem esse arquivo o site mostra a capinha desenhada em amarelo — nada quebra.
+
+Proporção ideal: retrato, tipo 2:3 (ex.: 600 x 900 px).

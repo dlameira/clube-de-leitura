@@ -1,0 +1,12 @@
+# sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# a capa e as fontes são arquivos seus, não do projeto —
+# tire daqui se quiser versionar junto
+assets/capa.jpg
+assets/capa.png
+assets/fonts/*.woff2
+assets/fonts/*.otf
+assets/fonts/*.ttf

@@ -1,0 +1,9 @@
+Se você tiver a PP Editorial New (Pangram Pangram, é paga), coloque aqui:
+
+  PPEditorialNew-Regular.woff2
+  PPEditorialNew-Italic.woff2
+
+Ela assume sozinha no lugar da Instrument Serif (Google Fonts, gratuita),
+que é a substituta mais próxima que dá pra usar sem licença.
+
+Nada quebra se a pasta ficar vazia — só ignora os 404 no console.
